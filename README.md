@@ -1,2 +1,2 @@
 # my1repo
-my new repo
+my new repository test in readme file
