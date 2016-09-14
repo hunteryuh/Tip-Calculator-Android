@@ -14,6 +14,10 @@ This app is available on the following platforms:
 
 The motivation of this app development is to help people quickly know what amount of tips to pay in a restaurant. You can also check it at <https://www.google.com/#q=tip+calculator>.
 
+## Instructions
+
+Users need to type the total bill amount and the party size using keyboard, then click button "COMPUTE TIP". The amount of tip and total bill for each person will be calculated.
+
 ## Release information
 
 This is v1.0 version. Update coming soon.
