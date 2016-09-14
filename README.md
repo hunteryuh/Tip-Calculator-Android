@@ -16,7 +16,7 @@ The motivation of this app development is to help people quickly know what amoun
 
 ## Instructions
 
-Users need to type the total bill amount and the party size using keyboard, then click button 'COMPUTE TIP'. The amount of tip and total bill for each person will be calculated.
+Users need to type the total bill amount and the party size using keyboard, then click button `COMPUTE TIP`. The amount of tip and total bill for each person will be calculated.
 
 ## Release information
 
