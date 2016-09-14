@@ -6,8 +6,8 @@ This app is a tip calculator. It can automatilly calcuate the amount of tip and 
 It rounds to an integer result. So ~~demical values~~. 
 
 This app is available on the following platforms:
- - _Android 4.4_** and above. Downloading website: [play store](http://play.google.com/store)
- - _IOS 7+_**. Downloading webiste: [Apple Store] (http://www.apple.com/itunes/download/) "Apple store"
+ - **_Android 4.4_** and above. Downloading website: [play store](http://play.google.com/store)
+ - **_IOS 7+_**. Downloading webiste: [Apple Store] (http://www.apple.com/itunes/download/ "Apple store page")
 
 
 ## Motivation
